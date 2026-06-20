@@ -1,4 +1,5 @@
 ■Sales Operations Dashboard (Portfolio)
+
 Japanese Version (国内ビジネス・社内報告用): [Link to Live App](https://sales-ops-dashboard-ja.streamlit.app/)
 
 実務を想定した営業・売上データ（匿名化済み）をベースに、
@@ -17,7 +18,8 @@ Kaggleで公開されているデータセットを使用しています。
   実務（Sales Operations）を想定した架空のサンプルデータであり、実際の個人情報や企業の機密情報は一切含まれていません。
 
 ■Sales Operations Dashboard (Portfolio)
-English Version (For Global/External Ops)**: [Link to Live App](https://sales-ops-dashboard.streamlit.app/)
+
+English Version (For Global/External Ops): [Link to Live App](https://sales-ops-dashboard.streamlit.app/)
 
 This is a prototype sales and revenue dashboard developed using Streamlit, 
 built upon digitized operational data (fully anonymized) to streamline executive and regional decision-making.
