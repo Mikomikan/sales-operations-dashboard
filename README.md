@@ -1,4 +1,5 @@
 ■Sales Operations Dashboard (Portfolio)
+![Dashboard Screenshot](dashboard.png)
 
 Japanese Version (国内ビジネス・社内報告用): [Link to Live App](https://sales-ops-dashboard-ja.streamlit.app/)
 
