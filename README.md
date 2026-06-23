@@ -3,8 +3,7 @@
 
 Japanese Version (国内ビジネス・社内報告用): [Link to Live App](https://sales-ops-dashboard-ja.streamlit.app/)
 
-実務を想定した営業・売上データ（匿名化済み）をベースに、
-Sales Opsが意思決定で使用するダッシュボードのプロトタイプをStreamlitで構築しました。
+実務を想定した営業・売上データ（匿名化済み）をベースに、ダッシュボードのプロトタイプをStreamlitで構築しました。
 
 ■本プロジェクトの狙い
 データの仕様や項目（Product lineやBranchなど）を活かし、
